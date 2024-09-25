@@ -125,7 +125,7 @@
 
 
 ## Advanced Practice Problems 
-### [Strive AtoZ sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
+### [Striver AtoZ sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
 #NOTE: These problems are supposed to be done only when you are done with the above problems and are able to solve them at their own. In the below problem sheet, first solve the easy problems of all the below mentioned topics. The topics to be done from this sheet are :
 
 - Step 1 : Learn the basics
